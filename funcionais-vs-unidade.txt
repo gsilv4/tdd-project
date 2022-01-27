@@ -1,0 +1,2 @@
+1) Um teste de unidade testa uma unidade de comportamento independente, enquanto um m teste funcional testa uma parte independente da funcionalidade. 
+2) Os testes de unidade são escritos por desenvolvedores, para desenvolvedores, da perspectiva do desenvolvedor. Já os testes funcionais podem ser voltados para o usuário.
