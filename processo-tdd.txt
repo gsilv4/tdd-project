@@ -1,0 +1,3 @@
+O processo TDD pode ser descrito da seguinte forma: 
+Escrever o teste funcional, rodar o teste e verificar se falha, escrever algum código da aplicação, rodar o teste novamente e repetir até passar. 
+Adicionalmente, podemos refatorar nosso código, utilizando sempre o teste para garantir que não quebramos nada. Em seguida o processo se repete para os testes de unidade.
